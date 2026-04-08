@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Muhammad Ali",
+    "division": "Heavyweight",
+    "wins": 56,
+    "losses": 5,
+    "kos": 37,
+    "isWorldChampion": true,
+    "divisionTitles": 3
+  },
+  {
+    "id": 2,
+    "name": "Mike Tyson",
+    "division": "Heavyweight",
+    "wins": 50,
+    "losses": 6,
+    "kos": 44,
+    "isWorldChampion": true,
+    "divisionTitles": 2
+  },
+  {
+    "id": 3,
+    "name": "Floyd Mayweather Jr.",
+    "division": "Super Welterweight",
+    "wins": 50,
+    "losses": 0,
+    "kos": 27,
+    "isWorldChampion": true,
+    "divisionTitles": 5
+  },
+  {
+    "id": 4,
+    "name": "Manny Pacquiao",
+    "division": "Welterweight",
+    "wins": 62,
+    "losses": 8,
+    "kos": 39,
+    "isWorldChampion": true,
+    "divisionTitles": 8
+  },
+  {
+    "id": 5,
+    "name": "Sugar Ray Robinson",
+    "division": "Middleweight",
+    "wins": 173,
+    "losses": 19,
+    "kos": 108,
+    "isWorldChampion": true,
+    "divisionTitles": 2
+  },
+  {
+    "id": 6,
+    "name": "Joe Louis",
+    "division": "Heavyweight",
+    "wins": 66,
+    "losses": 3,
+    "kos": 52,
+    "isWorldChampion": true,
+    "divisionTitles": 1
+  },
+  {
+    "id": 7,
+    "name": "Rocky Marciano",
+    "division": "Heavyweight",
+    "wins": 49,
+    "losses": 0,
+    "kos": 43,
+    "isWorldChampion": true,
+    "divisionTitles": 1
+  },
+  {
+    "id": 8,
+    "name": "Oscar De La Hoya",
+    "division": "Super Lightweight",
+    "wins": 39,
+    "losses": 6,
+    "kos": 30,
+    "isWorldChampion": true,
+    "divisionTitles": 6
+  },
+  {
+    "id": 9,
+    "name": "Canelo Alvarez",
+    "division": "Super Middleweight",
+    "wins": 61,
+    "losses": 2,
+    "kos": 39,
+    "isWorldChampion": true,
+    "divisionTitles": 4
+  },
+  {
+    "id": 10,
+    "name": "Julio Cesar Chavez",
+    "division": "Super Featherweight",
+    "wins": 107,
+    "losses": 6,
+    "kos": 86,
+    "isWorldChampion": true,
+    "divisionTitles": 3
+  },
+  {
+    "id": 11,
+    "name": "Deontay Wilder",
+    "division": "Heavyweight",
+    "wins": 43,
+    "losses": 3,
+    "kos": 42,
+    "isWorldChampion": true,
+    "divisionTitles": 1
+  },
+  {
+    "id": 12,
+    "name": "Tommy Morrison",
+    "division": "Heavyweight",
+    "wins": 48,
+    "losses": 3,
+    "kos": 42,
+    "isWorldChampion": false,
+    "divisionTitles": 0
+  }
+]
