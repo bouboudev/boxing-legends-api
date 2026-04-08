@@ -75,9 +75,10 @@ http://localhost:3000
 
 👉 (à compléter après déploiement)
 
-* https://xxx.onrender.com/boxers
-* https://xxx.onrender.com/legends
-* https://xxx.onrender.com/boxers/top
+* https://boxing-legends-api.onrender.com/boxers
+* https://boxing-legends-api.onrender.com/legends
+* https://boxing-legends-api.onrender.com/boxers/top
+
 
 ---
 
